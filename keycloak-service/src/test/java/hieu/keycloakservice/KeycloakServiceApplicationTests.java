@@ -1,10 +1,10 @@
-package hieu.sagaecom;
+package hieu.keycloakservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SagaEcomApplicationTests {
+class KeycloakServiceApplicationTests {
 
     @Test
     void contextLoads() {
